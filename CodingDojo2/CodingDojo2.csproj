@@ -93,5 +93,33 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Image\Bell New-WF.png" />
+    <Resource Include="Image\Clock-01.png" />
+    <Resource Include="Image\Cloud sun02-WF.png" />
+    <Resource Include="Image\Cloud-Overcast.png" />
+    <Resource Include="Image\Door closed-WF.png" />
+    <Resource Include="Image\Forecast weather -WF.png" />
+    <Resource Include="Image\Head Phone-02-WF.png" />
+    <Resource Include="Image\House.png" />
+    <Resource Include="Image\Lock-WF.png" />
+    <Resource Include="Image\Man-01.png" />
+    <Resource Include="Image\Message Mail-WF.png" />
+    <Resource Include="Image\Plug-WF.png" />
+    <Resource Include="Image\Rain-WF.png" />
+    <Resource Include="Image\Sofa-01-WF.png" />
+    <Resource Include="Image\Solar.png" />
+    <Resource Include="Image\Speaker Decrease - 01.png" />
+    <Resource Include="Image\Speaker Increase - 02.png" />
+    <Resource Include="Image\Speaker Mute - 04.png" />
+    <Resource Include="Image\Tasks.png" />
+    <Resource Include="Image\Temperature Warning-WF.png" />
+    <Resource Include="Image\Temperature-02-WF.png" />
+    <Resource Include="Image\Unlock-WF.png" />
+    <Resource Include="Image\Warning-WF.png" />
+    <Resource Include="Image\Weather-01.png" />
+    <Resource Include="Image\Wind.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
